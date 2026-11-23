@@ -1,0 +1,16 @@
+/* Écrivez vos règles css ici. */
+h1{
+    color : orange ;
+    text-align : right ;
+}
+h2{
+    color : indianred ;
+    text-align : center ;
+}
+
+p{
+    color :purple;
+}
+h1{
+    background-color : orangered;
+} 
